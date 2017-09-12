@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace LoginApp
 {
-    public partial class Form1 : Form
+    public partial class MainLoginWindow : Form
     {
-        public Form1()
+        public MainLoginWindow()
         {
             InitializeComponent();
         }

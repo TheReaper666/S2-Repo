@@ -1,6 +1,6 @@
 ﻿namespace LoginApp
 {
-    partial class Form1
+    partial class MainLoginWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -36,4 +36,3 @@
         #endregion
     }
 }
-
